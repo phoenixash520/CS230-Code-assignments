@@ -2,7 +2,7 @@
 吴恩达深度学习课程课后代码作业
 对应笔记地址：https://www.cnblogs.com/phoenixash/  欢迎访问~
 
-##第一门课 神经网络 和深度学习 (Neural Networks and Deep Learning)
+## - 第一门课 神经网络 和深度学习 (Neural Networks and Deep Learning)
 
 | 周数   | 课程名             | 课后           | 笔记地址                                 |
 | ------ | ------------------ | -------------- | ---------------------------------------- |
