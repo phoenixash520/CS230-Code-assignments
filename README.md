@@ -18,12 +18,14 @@
 [wl2]:https://www.cnblogs.com/phoenixash/p/12015698.html
 [wl3]:https://www.cnblogs.com/phoenixash/p/12044648.html
 
-## - 第二门课 改善深层神经网络：超参数调试、正则化以及优化(Improving Deep Neural Networks:Hyperparameter tuning, Regularization and Optimization)**
+## - **第二门课 改善深层神经网络：超参数调试、正则化以及优化(Improving Deep Neural Networks:Hyperparameter tuning, Regularization and Optimization)**
 
 | 周数   | 课程名             | 课后           | 笔记地址                                   |
 | ------ | ------------------ | -------------- | ------------------------------------------ |
 | 第一周 | 深度学习的实践层面 | 测验和代码任务 | [课堂笔记][2wl1]、[课后测验和代码任务][21] |
+| 第二周 | 优化算法           | 测验和代码任务 | [课堂笔记][2wl2]、[课后测验和代码任务][22] |
 
 [21]:https://www.cnblogs.com/phoenixash/p/12092355.html
 [2wl1]:https://www.cnblogs.com/phoenixash/p/12084256.html
-
+[22]:https://www.cnblogs.com/phoenixash/p/12121776.html
+[2wl2]:https://www.cnblogs.com/phoenixash/p/12117250.html
